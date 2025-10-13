@@ -25,3 +25,5 @@ ENV JAVA_OPTS="-Dquarkus.http.host=0.0.0.0 -Djava.util.logging.manager=org.jboss
 
 # Run the application
 ENTRYPOINT ["java","-jar","/work/quarkus-run.jar"]
+
+# hoi
